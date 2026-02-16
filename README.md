@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m currently building and refining projects in Python  <br><br>Currently learning Cloud Infrastructure and DevOps, focusing on AWS services, Docker, Kubernetes, and Terraform<br><br>Check out my repositories to see what I’m working on <br><br>Always open to collaborating !!<br><br>Get in touch : Anuhya.akn@gmail.com</p>
+<p align="left"><br>Currently learning Cloud Infrastructure and DevOps, focusing on AWS services, Docker, Kubernetes, and Terraform<br><br>Check out my repositories to see what I’m working on <br><br>Get in touch : Anuhya.akn@gmail.com</p>
 
 ###
 
