@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><br>Working on projects that combine ML powered applications, scalable backend systems, and clean product architecture.<br><br>Currently building PinSense — a smart image analysis and board‑organization tool inspired by Pinterest’s visual search systems.<br><br>Get in touch : Anuhya.akn@gmail.com</p>
+<p align="left"><br>Currently building PinSense — a smart image analysis and board‑organization tool inspired by Pinterest’s visual search systems.<br><br>Get in touch : Anuhya.akn@gmail.com</p>
 
 ###
 
