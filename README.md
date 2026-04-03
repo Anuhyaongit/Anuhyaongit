@@ -6,14 +6,6 @@
 
 ###
 
-<h3 align="left">Connect with me 👋🏼</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="linkedin logo"  />
-</div>
-
 ###
 
 <h3 align="left">Tech stack !</h3>
