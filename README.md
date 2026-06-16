@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left"><br>Currently building PinSense — a smart image analysis and board‑organization tool inspired by Pinterest’s visual search systems.<br><br>Get in touch : Anuhya.akn@gmail.com</p>
+<p align="left"><br>Currently building PinSense — a smart image analysis and board‑organization tool inspired by Pinterest’s visual search systems.<br></p>
 
 ###
 
 ###
 
-<h3 align="left">Tech stack !</h3>
+<h3 align="left"></h3>
 
 ###
 
